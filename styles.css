@@ -260,6 +260,7 @@ header p {
     transition: all 0.3s ease;
     flex: 1;
     min-width: 120px;
+    width: 100%;
 }
 
 .export-btn {
