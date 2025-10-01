@@ -2,8 +2,8 @@
     "name": "일상 목표 챌린지 - Daily Challenge",
     "short_name": "목표챌린지",
     "description": "일상 목표를 설정하고 완료 시 도장을 찍어 기록하는 습관 형성 앱",
-    "start_url": "./index.html",
-    "scope": "./",
+    "start_url": "/stampit/",
+    "scope": "/stampit/",
     "display": "standalone",
     "orientation": "portrait",
     "theme_color": "#6c757d",
@@ -65,16 +65,8 @@
             "name": "목표 추가",
             "short_name": "목표 추가",
             "description": "새로운 목표를 추가합니다",
-            "url": "./index.html",
+            "url": "/stampit/",
             "icons": [{ "src": "icon-96.png", "sizes": "96x96" }]
-        }
-    ],
-    "screenshots": [
-        {
-            "src": "screenshot-mobile.png",
-            "sizes": "375x667",
-            "type": "image/png",
-            "form_factor": "narrow"
         }
     ]
 }
