@@ -263,6 +263,10 @@ header p {
     width: 100%;
 }
 
+.import-container {
+    flex: 1;
+}
+
 .export-btn {
     background: #28a745;
     color: white;
