@@ -1,6 +1,6 @@
 {
-    "name": "일상 목표 챌린지 - Daily Challenge",
-    "short_name": "목표챌린지",
+    "name": "DAILY - 일상 목표 챌린지",
+    "short_name": "DAILY",
     "description": "일상 목표를 설정하고 완료 시 도장을 찍어 기록하는 습관 형성 앱",
     "start_url": "/stampit/",
     "scope": "/stampit/",
